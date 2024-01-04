@@ -1299,6 +1299,9 @@ nav.scrolled {
   #drstrange{
     left: 0vw;
   }
+  .button{
+    border-radius: 5px;
+  }
   
 }
 
